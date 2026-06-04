@@ -5,8 +5,8 @@ public:
         vector <int> result;
         int l = 0;
         int r = size - 1;
-        int sum = numbers[l] + numbers[r];
-      
+        int sum;
+              
         while (l < r)   {
             sum = numbers[l] + numbers[r];
             if (sum < target)   l++;
