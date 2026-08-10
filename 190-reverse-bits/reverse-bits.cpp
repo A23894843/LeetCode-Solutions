@@ -7,8 +7,8 @@ public:
 
         reverse (bits.begin(), bits.end());
 
-        int result = stoi (bits, NULL, 2);
+        return (int)(stoi (bits, NULL, 2));
 
-        return result;
+        //return result;
     }
 };
