@@ -12,8 +12,8 @@
 class Solution {
     void preorder (TreeNode* root, vector <int>& res)    {
         if (root == NULL)   return;
-        int data = root-> val;
-        res.push_back (data);
+        
+        res.push_back (root-> val);
         preorder (root-> left, res);     
         preorder (root-> right, res);
     }
