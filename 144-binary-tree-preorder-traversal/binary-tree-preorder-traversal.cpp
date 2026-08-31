@@ -20,7 +20,6 @@ class Solution {
 public:
     vector<int> preorderTraversal(TreeNode* root) {
         vector <int> result;
-
         preorder (root, result);
         return result;
     }
