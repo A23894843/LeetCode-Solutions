@@ -80,7 +80,7 @@ The individual README files make the repository useful not only as a submission 
 
 ## 💻 Language & Environment
 
-* **Language:** C++
+* **Language:** C++, Python
 * **Platform:** LeetCode
 * **Standard Library:** C++ STL where appropriate
 * **Recommended Standard:** C++17 or later
