@@ -187,6 +187,7 @@ Problem statements and related content belong to **LeetCode**. The implementatio
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/A23894843/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/A23894843/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/A23894843/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 ## Trie
 |  |
