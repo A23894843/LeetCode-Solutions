@@ -183,6 +183,7 @@ Problem statements and related content belong to **LeetCode**. The implementatio
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/A23894843/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/A23894843/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 ## String
 |  |
 | ------- |
@@ -201,4 +202,12 @@ Problem statements and related content belong to **LeetCode**. The implementatio
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/A23894843/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/A23894843/LeetCode-Solutions/tree/master/0016-3sum-closest) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/A23894843/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
