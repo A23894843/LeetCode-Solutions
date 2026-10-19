@@ -1,4 +1,4 @@
-# `~/LeetCode-Solutions`
+# `LeetCode-Solutions`
 
 > **Think. Code. Optimize. Repeat.**
 
