@@ -169,3 +169,23 @@ git push origin main
 ```
 
 **One problem at a time. One pattern at a time. Progress over perfection.**
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3886-sum-of-sortable-integers](https://github.com/A23894843/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
+## Math
+|  |
+| ------- |
+| [3886-sum-of-sortable-integers](https://github.com/A23894843/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
+## Sorting
+|  |
+| ------- |
+| [3886-sum-of-sortable-integers](https://github.com/A23894843/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
+## Enumeration
+|  |
+| ------- |
+| [3886-sum-of-sortable-integers](https://github.com/A23894843/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
+<!---LeetCode Topics End-->
