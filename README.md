@@ -188,4 +188,12 @@ git push origin main
 |  |
 | ------- |
 | [3886-sum-of-sortable-integers](https://github.com/A23894843/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/A23894843/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/A23894843/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
